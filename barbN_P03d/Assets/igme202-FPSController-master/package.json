@@ -1,0 +1,20 @@
+{
+  "name": "com.igme202.fpscontrollerim",
+  "version": "2.0.1",
+  "displayName": "FPS Controller IM",
+  "description": "This package contains an FPS controller that uses Unity's old InputManager and is for IGME 202.",
+  "unity": "2019.4",
+  "unityRelease": "7f1",
+  "dependencies": {
+  },
+  "keywords": [
+    "fps",
+    "controller",
+    "fpscontroller"
+  ],
+  "author": {
+    "name": "Sean Brennan and Eric Baker",
+    "email": "sjbigm@rit.edu",
+    "url": "https://www.rit.edu"
+  }
+}
